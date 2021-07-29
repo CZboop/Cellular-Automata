@@ -1,6 +1,10 @@
 # Automata
 Cellular automata GUI application in Pygame, with customisable settings alongside two basic presets - 'Game of Life' and 'Day and Night'.
 
-Check out an example (excuse the poor quality, file size was a limiting factor): 
+Check out an example of the custom menu: 
 
-![Automata%20Demo](https://github.com/CZboop/Automata/blob/main/Automata%20Demo.gif)
+![automata%20menu](https://github.com/CZboop/Automata/blob/main/images/automata%20menu.gif)
+
+
+And what this creates:
+![automata%20running](https://github.com/CZboop/Automata/blob/main/images/automata%20running.gif)
